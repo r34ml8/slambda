@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url('koza-priroda-fon.jpg');
+    background-color: greenyellow;
+    background-position: center;
+    background-repeat: repeat;
+    color: #08692d;
+    font-size: 16px;
+    overflow: auto;
+}
+
+
+
