@@ -3,13 +3,24 @@ html, body {
     padding: 0;
     height: 100%;
     background-image: url('koza-priroda-fon.jpg');
-    background-color: greenyellow;
+    background-color: springgreen;
     background-position: center;
     background-repeat: repeat;
-    color: #08692d;
-    font-size: 16px;
+    color: darkgreen;
+    font-size: 24px;
     overflow: auto;
 }
+
+#main {
+    margin: 0px auto;
+    width: 700px;
+    min-height: 100%;
+    background: lightgreen;
+    background-attachment: fixed;
+    font-family: sans-serif;
+    text-align: center;
+}
+
 
 
 
